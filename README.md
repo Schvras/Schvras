@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Jean</h1>
 <h3 align="center">Sou Desenvolvedor front-end e back-end</h3>
 
-- 🌱 Atualmente estou aprendendo **API, JavaScript, NodeJs e Java.**
+- 🌱 Atualmente estou aprendendo **API, JavaScript e NodeJs.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Schvras](https://github.com/Schvras)
 
