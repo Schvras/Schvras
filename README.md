@@ -9,7 +9,7 @@
 
 - 📄 Conheça minhas experiências [https://www.linkedin.com/in/jean-henrique-schvartz- 92940a180/](https://www.linkedin.com/in/jean-henrique-schvartz-92940a180/)
 
-- ⚡ Curiosidade **Como é fácil e aprender as coisas hoje em dia.**
+- ⚡ Curiosidade **Como é fácil aprender as coisas hoje em dia.**
 
 <h3 align=" left">Conecte-se comigo:</h3>
 <p align="left">
